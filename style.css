@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+header img{
+    width: 175px;
+    height: 125px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+nav a{
+    font-size: 30px;
+    text-decoration: none;
+    color: darkcyan;
+    font-weight: bold;
+    margin-left: 5px;
+    padding-top: 10px;
+    
+}
+nav{
+    padding-top: 15%;
+}
+#accueil img{
+    width: 382px;
+    height: 348px;
+}
+#acc {
+    display: flex;
+    justify-content: space-between;
+}
